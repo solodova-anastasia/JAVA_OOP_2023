@@ -1,4 +1,4 @@
-package Lesson_2.HW2;
+package Lesson_2.HW2_;
 
 public class Cat {
       private java.lang.String name;

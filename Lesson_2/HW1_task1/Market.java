@@ -1,5 +1,7 @@
 package Lesson_2.HW1_task1;
 
+import Lesson_2.HW1_task1.HW2;
+
 public class Market implements HW2.MarketBehaviour, HW2.QueueBehaviour {
     private java.util.Queue<java.lang.String> queue;
 
