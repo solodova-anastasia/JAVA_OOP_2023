@@ -1,4 +1,4 @@
-package Lesson_2.HW2_;
+package Lesson_2.HW1_task1;
 
 public class Main {
     
